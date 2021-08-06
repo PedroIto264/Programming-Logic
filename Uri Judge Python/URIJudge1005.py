@@ -1,0 +1,6 @@
+x1 = float(input())
+x2 = float(input())
+notaA = (x1 * 3.5)
+notaB = (x2 * 7.5)
+media = ((notaA + notaB)/11)
+print("MEDIA = %0.5f" %media)
