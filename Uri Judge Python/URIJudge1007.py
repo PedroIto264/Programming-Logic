@@ -1,0 +1,8 @@
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+mult1 = (A * B)
+mult2 = (C * D)
+conta = (mult1 - mult2)
+print("DIFERENCA =", conta)
