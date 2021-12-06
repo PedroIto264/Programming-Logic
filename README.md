@@ -1,2 +1,2 @@
 # Programming-Logic
-Exercícios feitos no curso de Lógica de Programação na Universidade Federal de São Paulo - Unifesp
+Exercícios feitos durante o curso de Lógica de Programação na Universidade Federal de São Paulo - Unifesp
